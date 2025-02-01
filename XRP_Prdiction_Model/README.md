@@ -9,7 +9,7 @@
 - **기능 3**: [결과 데이터의 시각화]
 
 ## 🛠️ 기술 스택
-- **언어**: Python (예시)
+- **언어**: Python 
 - **라이브러리**: Pandas, matplotlib, statsmodel
 
 ## ✨ 결론
