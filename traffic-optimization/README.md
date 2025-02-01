@@ -24,8 +24,12 @@
 
 ## 🗂️ 프로젝트 구조  
 
-📁 traffic-optimization/ ├── data/ # 데이터셋 저장 ├── notebooks/ # 분석 및 시각화 Jupyter 노트북 ├── src/ # 주요 Python 코드 ├── README.md # 프로젝트 개요 및 설명 └── requirements.txt # 필요한 라이브러리 목록
-
+📁 traffic-optimization/
+├── data/            # 데이터 저장
+├── notebooks/       # 분석 및 시각화 Jupyter 노트북
+├── src/             # 주요 Python 코드
+├── README.md        # 프로젝트 개요 및 설명
+└── requirements.txt # 필요한 라이브러리 목록
 
 ---
 
